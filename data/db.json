@@ -1,0 +1,22 @@
+{
+  "yapilacaklar": [
+    {
+      "id": 1996383,
+      "baslik": "Alışveriş Yap",
+      "icerik": "3 ekmek, 1 paket süt ve zeytinyağı al",
+      "yapildi": false
+    },
+    {
+      "id": 68177748,
+      "baslik": "Spora Git",
+      "icerik": "15 dakika koşu bandı, 10 dakika bisiklet ve 5 dakika ip atlama",
+      "yapildi": true
+    },
+    {
+      "id": 85872643,
+      "baslik": "Sınava çalış",
+      "icerik": "Matematik , Biyoloji çalış",
+      "yapildi": false
+    }
+  ]
+}
